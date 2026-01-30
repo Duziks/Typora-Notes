@@ -10,7 +10,7 @@ https://github.com/niXman/mingw-builds-binaries
 
 点击右侧`Releases`
 
-![image-20260130125822174](./Sublime Text C++ 环境配置.assets/image-20260130125822174.png)
+![image-20260130125822174](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130125822174.png)
 
 选择最新版本的文件下载  
 
@@ -20,11 +20,11 @@ https://github.com/niXman/mingw-builds-binaries
 
 打开bin文件夹并复制目录  
 
-![image-20260130130155704](./Sublime Text C++ 环境配置.assets/image-20260130130155704.png)
+![image-20260130130155704](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130130155704-1769755292858-3.png)
 
 在任务栏中搜索并打开`编辑系统环境变量`
 
-![image-20260130130649173](./Sublime Text C++ 环境配置.assets/image-20260130130649173.png)
+![image-20260130130649173](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130130649173-1769755300310-5.png)
 
 点击环境变量
 
@@ -32,7 +32,7 @@ https://github.com/niXman/mingw-builds-binaries
 
 双击打开系统变量中的Path
 
-![image-20260130130811456](./Sublime Text C++ 环境配置.assets/image-20260130130811456.png)
+![image-20260130130811456](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130130811456-1769755301860-7.png)
 
 点击右侧新建，将复制的地址加入，然后点击确定
 
@@ -62,11 +62,11 @@ https://github.com/niXman/mingw-builds-binaries
 
 在安装配置好MinGW的前提下，Sublime会自动识别后缀为 `.c` 或 `.cpp` 的文件，按下 `Ctrl + B` 即会出现以下选项  
 
-![image-20260130132015778](./Sublime Text C++ 环境配置.assets/image-20260130132015778.png)
+![image-20260130132015778](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130132015778-1769755304859-9.png)
 
 选择第二个即可编译并运行代码
 
-![image-20260130132609322](./Sublime Text C++ 环境配置.assets/image-20260130132609322.png)
+![image-20260130132609322](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130132609322-1769755306461-11.png)
 
 在下方控制台面板中输入即可
 

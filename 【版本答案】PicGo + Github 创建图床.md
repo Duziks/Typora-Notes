@@ -35,10 +35,9 @@
    - **设定Token**：粘贴你刚才复制的 GitHub Token。
    - **指定存储路径**：建议填写 `img/`，这样图片会存在仓库的 img 文件夹里，不会乱。
    - **设定自定义域名**：由于 GitHub 原始链接在国内访问较慢，建议填写加速地址： `https://cdn.jsdelivr.net/gh/你的用户名/仓库名`。
+4. 点击 **确定** 并设置为 **默认图床**。
 
 ![image-20260224215032574](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/image-20260224215032574.png)
-
-1. 点击 **确定** 并设置为 **默认图床**。
 
 ### 第四步：关联 Typora (实现自动上传)
 

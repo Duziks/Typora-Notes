@@ -1,3 +1,12 @@
+---
+title: Sublime Text C/C++ 环境配置
+date: 2026-01-30 16:24:49
+tags: [C++,环境配置]
+cover: images/SublimeText.jpeg
+top_img: https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/wallhaven-9ozdwd.png
+
+---
+
 # Sublime Text C/C++ 环境配置
 
 ## 官网下载 Sublime Text
@@ -10,7 +19,7 @@ https://github.com/niXman/mingw-builds-binaries
 
 点击右侧`Releases`
 
-![image-20260130125822174](./Sublime%20Text%20C++%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.assets/image-20260130125822174.png)
+![image-20260130125822174](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/5e187cb5f85c44fe8b0b1675a3367b96.png)
 
 选择最新版本的文件下载  
 
@@ -20,19 +29,19 @@ https://github.com/niXman/mingw-builds-binaries
 
 打开bin文件夹并复制目录  
 
-![image-20260130130155704](./../Downloads/Sublime%2520Text%2520C++%2520%25E7%258E%25AF%25E5%25A2%2583%25E9%2585%258D%25E7%25BD%25AE.assets/image-20260130130155704-1769755292858-3.png)
+![image-20260130130155704](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/bb7c348bd68547c0a6b26e1d762e86db.png)
 
 在任务栏中搜索并打开`编辑系统环境变量`
 
-![image-20260130130649173](./../Downloads/Sublime%2520Text%2520C++%2520%25E7%258E%25AF%25E5%25A2%2583%25E9%2585%258D%25E7%25BD%25AE.assets/image-20260130130649173-1769755300310-5.png)
+![image-20260130130649173](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/4b3ad6c741a74a2fb0872f4facc40758.png)
 
 点击环境变量
 
-![image-20260130130729776](./../Downloads/Sublime%2520Text%2520C++%2520%25E7%258E%25AF%25E5%25A2%2583%25E9%2585%258D%25E7%25BD%25AE.assets/image-20260130130729776.png)
+![image-20260130130729776](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/028eb90013bc45eb987c737be2b4b216.png)
 
 双击打开系统变量中的Path
 
-![image-20260130130811456](./../Downloads/Sublime%2520Text%2520C++%2520%25E7%258E%25AF%25E5%25A2%2583%25E9%2585%258D%25E7%25BD%25AE.assets/image-20260130130811456-1769755301860-7.png)
+![image-20260130130811456](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/64f594266d8e454f9e43d9a82a7a68de.png)
 
 点击右侧新建，将复制的地址加入，然后点击确定
 
@@ -62,11 +71,11 @@ https://github.com/niXman/mingw-builds-binaries
 
 在安装配置好MinGW的前提下，Sublime会自动识别后缀为 `.c` 或 `.cpp` 的文件，按下 `Ctrl + B` 即会出现以下选项  
 
-![image-20260130132015778](./../Downloads/Sublime%2520Text%2520C++%2520%25E7%258E%25AF%25E5%25A2%2583%25E9%2585%258D%25E7%25BD%25AE.assets/image-20260130132015778-1769755304859-9.png)
+![image-20260130132015778](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/b4de300e7b77429fad2fa85aa49123ea.png)
 
 选择第二个即可编译并运行代码
 
-![image-20260130132609322](./../Downloads/Sublime%2520Text%2520C++%2520%25E7%258E%25AF%25E5%25A2%2583%25E9%2585%258D%25E7%25BD%25AE.assets/image-20260130132609322-1769755306461-11.png)
+![image-20260130132609322](https://cdn.jsdelivr.net/gh/Duziks/Image-Bed/img/c2bba041683948ceb8978faa3758bc29.png)
 
 在下方控制台面板中输入即可
 
